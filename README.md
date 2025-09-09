@@ -39,7 +39,7 @@ A comprehensive C# console application for managing tasks with priority levels, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/task-management-system.git
+   git clone [https://github.com/umutulay/task_management_system.git]
    cd task-management-system
    ```
 
