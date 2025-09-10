@@ -1,7 +1,6 @@
 # Task Management System
 
-A comprehensive C# console application for managing tasks with priority levels, due dates, and status tracking. Built to demonstrate object-oriented programming principles, LINQ operations, and clean code architecture.
-
+A comprehensive C# console application for managing tasks with priority levels, due dates, and status tracking. Built to demonstrate object-oriented programming principle and LINQ operations.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
